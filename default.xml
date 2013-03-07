@@ -37,6 +37,7 @@
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/jordan-common" name="CyanogenMod/android_device_motorola_jordan-common" />
   <project path="device/motorola/sholes" name="android_device_motorola_sholes" remote="steeldroid" revision="gingerbread" />
+  <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="steeldroid" revision="gingerbread" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
