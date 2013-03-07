@@ -232,6 +232,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
   <project path="vendor/motorola/sholes" name="android_vendor_motorola_sholes" remote="steeldroid" revision="gingerbread" />
+  <project path="vendor/motorola/droid2" name="android_vendor_motorola_droid2" remote="steeldroid" revision="gingerbread" />
 
   <project path="android" name="platform_manifest" remote="steeldroid" revision="gingerbread" />
 
