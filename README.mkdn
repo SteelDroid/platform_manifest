@@ -21,6 +21,11 @@ To build:
         (choose the device you want to build for)
     time make -j6 otapackage
 
+or, to make your life easier:
+
+To build for the Droid 1:
+
+    . build/envsetup.sh && brunch sholes
 
 
 Tips:
