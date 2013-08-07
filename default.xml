@@ -27,27 +27,12 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
-  <project path="device/htc/7x30-recovery" name="CyanogenMod/android_device_htc_7x30-recovery" />
-  <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
-  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" />
-  <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" />
-  <project path="device/lge/victor-common" name="CyanogenMod/android_device_lge_victor-common" />
-  <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" />
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/jordan-common" name="CyanogenMod/android_device_motorola_jordan-common" />
   <project path="device/motorola/sholes" name="android_device_motorola_sholes" remote="steeldroid" revision="gingerbread" />
   <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="steeldroid" revision="gingerbread" />
   <project path="device/motorola/droid2we" name="android_device_motorola_droid2we" remote="steeldroid" revision="gingerbread" />
   <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="steeldroid" revision="gingerbread" />
-  <project path="device/sample" name="CyanogenMod/android_device_sample" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
-  <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
-  <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" />
-  <project path="device/semc/mogami-common" name="CyanogenMod/android_device_semc_mogami-common" />
-  <project path="device/semc/msm7x27-common" name="CyanogenMod/android_device_semc_msm7x27-common" />
-  <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" />
-  <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -195,7 +180,6 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
