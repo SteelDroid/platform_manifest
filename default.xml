@@ -2,7 +2,8 @@
 <manifest>
 
   <remote  name="steeldroid"
-           fetch="https://github.com/SteelDroid/" />
+           fetch="https://github.com/SteelDroid/"
+           review="steeldroid.goo.im" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
