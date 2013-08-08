@@ -18,6 +18,7 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="android" name="platform_manifest" remote="steeldroid" revision="gingerbread" />
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
@@ -238,7 +239,5 @@
   <project path="vendor/motorola/droid2" name="platform_vendor_motorola_droid2" remote="steeldroid" revision="gingerbread" />
   <project path="vendor/motorola/droid2we" name="platform_vendor_motorola_droid2we" remote="steeldroid" revision="gingerbread" />
   <project path="vendor/motorola/shadow" name="platform_vendor_motorola_shadow" remote="steeldroid" revision="gingerbread" />
-
-  <project path="android" name="platform_manifest" remote="steeldroid" revision="gingerbread" />
 
 </manifest>
