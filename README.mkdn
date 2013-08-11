@@ -6,7 +6,6 @@ This branch is for Steel Droid gingerbread based ROM
 
 Getting Started
 ---------------
-
 To initialize your local repository using my trees, use the following command:
 
     repo init -u git://github.com/SteelDroid/platform_manifest.git -b gingerbread
@@ -34,4 +33,3 @@ Tips:
       - Delete EVERYTHING in the development/samples/ folder (leaving the samples folder there, only delete contents)
       - Delete EVERYTHING in the development/tutorials/ folder (leaving the samples folder there, only delete contents)
       - Open up /development/apps/Development/Android.mk, and comment out the "include" lines with a #
-
