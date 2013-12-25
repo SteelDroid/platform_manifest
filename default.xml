@@ -183,6 +183,7 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
+  <project path="packages/apps/SteelBox" name="platform_packages_apps_SteelBox" remote="steeldroid" revision="gingerbread" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="steeldroid" revision="gingerbread" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
