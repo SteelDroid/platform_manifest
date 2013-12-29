@@ -1,4 +1,4 @@
-Steel Droid repo
+Steel Droid
 ===========
 
 This branch is for Steel Droid gingerbread based ROM
