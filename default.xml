@@ -3,7 +3,7 @@
 
   <remote  name="steeldroid"
            fetch="https://github.com/SteelDroid/"
-           review="steeldroid.goo.im" />
+           review="http://108.212.138.232:8080" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
@@ -148,6 +148,7 @@
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
+
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap3-compat" name="CyanogenMod/android_hardware_ti_omap3-compat" />
   <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
@@ -160,6 +161,7 @@
   <project path="ndk" name="CyanogenMod/android_ndk" />
 
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
+  <project path="packages/apps/ADWLauncher" name="platform_packages_apps_ADWLauncher" remote="steeldroid" revision="gingerbread" />
   <project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" revision="master" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
@@ -191,8 +193,10 @@
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
+
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
+
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
@@ -202,6 +206,7 @@
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
+
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
 
