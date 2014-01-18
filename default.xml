@@ -175,7 +175,7 @@
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
   <project path="packages/apps/DSPManager" name="platform_packages_apps_DSPManager" remote="steeldroid" revision="gingerbread" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
-  <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" />
+  <project path="packages/apps/FM" name="platform_packages_apps_FM" remote="steeldroid" revision="gingerbread" />
   <project path="packages/apps/Gallery3D" name="CyanogenMod/android_packages_apps_Gallery3D" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
