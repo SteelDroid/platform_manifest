@@ -32,9 +32,12 @@
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/sholes" name="platform_device_motorola_sholes" remote="steeldroid" revision="gingerbread" />
+
+<!--
   <project path="device/motorola/droid2" name="platform_device_motorola_droid2" remote="steeldroid" revision="gingerbread" />
   <project path="device/motorola/droid2we" name="platform_device_motorola_droid2we" remote="steeldroid" revision="gingerbread" />
   <project path="device/motorola/shadow" name="platform_device_motorola_shadow" remote="steeldroid" revision="gingerbread" />
+-->
 
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
@@ -227,8 +230,11 @@
 
   <project path="vendor/cyanogen" name="platform_vendor_Cyanogen" remote="steeldroid" revision="gingerbread" />
   <project path="vendor/motorola/sholes" name="platform_vendor_motorola_sholes" remote="steeldroid" revision="gingerbread" />
+
+<!--
   <project path="vendor/motorola/droid2" name="platform_vendor_motorola_droid2" remote="steeldroid" revision="gingerbread" />
   <project path="vendor/motorola/droid2we" name="platform_vendor_motorola_droid2we" remote="steeldroid" revision="gingerbread" />
   <project path="vendor/motorola/shadow" name="platform_vendor_motorola_shadow" remote="steeldroid" revision="gingerbread" />
+-->
 
 </manifest>
