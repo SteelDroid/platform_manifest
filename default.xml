@@ -105,7 +105,7 @@
   <project path="external/netcat" name="CyanogenMod/android_external_netcat" />
   <project path="external/netperf" name="CyanogenMod/android_external_netperf" />
   <project path="external/neven" name="CyanogenMod/android_external_neven" />
-  <project path="external/nist-sip" name="CyanogenMod/android_external_nist-sip" />
+  <project path="external/nist-sip" name="platform_external_nist-sip" remote="steeldroid" revision="gingerbread" />
   <project path="external/oauth" name="CyanogenMod/android_external_oauth" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
