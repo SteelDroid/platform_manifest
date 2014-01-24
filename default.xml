@@ -5,10 +5,6 @@
            fetch="https://github.com/SteelDroid/"
            review="http://108.212.138.232:8080" />
 
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="review.source.android.com" />
-
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
@@ -211,7 +207,7 @@
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
 
-  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="gingerbread" />
+  <project path="prebuilt" name="platform_prebuilt" remote="steeldroid" revision="gingerbread" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
 
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
