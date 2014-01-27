@@ -12,7 +12,7 @@ To initialize your local repository using my trees, use the following command:
 
 Then to sync up:
 
-    repo sync -j8
+    reposync
 
 To build for the Droid 1:
 
