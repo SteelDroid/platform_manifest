@@ -173,8 +173,6 @@
   <project path="packages/apps/Phone" name="platform_packages_apps_Phone" />
   <project path="packages/apps/SteelBox" name="platform_packages_apps_SteelBox" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" />
-  <project path="packages/apps/Superuser" name="platform_packages_apps_Superuser" />
-  <project path="packages/apps/Torch" name="platform_packages_apps_Torch" />
   <project path="packages/apps/Usb" name="platform_packages_apps_Usb" />
   <project path="packages/apps/VoiceDialer" name="platform_packages_apps_VoiceDialer" />
 
@@ -191,7 +189,6 @@
   <project path="packages/providers/TelephonyProvider" name="platform_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform_packages_providers_UserDictionaryProvider" />
 
-  <project path="packages/wallpapers/Basic" name="platform_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="platform_packages_wallpapers_LivePicker" />
 
   <project path="prebuilt" name="platform_prebuilt" />
@@ -202,7 +199,6 @@
   <project path="system/extras" name="platform_system_extras" />
   <project path="system/media" name="platform_system_media" />
   <project path="system/netd" name="platform_system_netd" />
-  <project path="system/su" name="platform_system_su" />
   <project path="system/vold" name="platform_system_vold" />
   <project path="system/wlan/ti" name="platform_system_wlan_ti" />
 
