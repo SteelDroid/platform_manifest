@@ -187,6 +187,7 @@
   <project path="packages/providers/TelephonyProvider" name="platform_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform_packages_providers_UserDictionaryProvider" />
 
+  <project path="packages/wallpapers/Basic" name="platform_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="platform_packages_wallpapers_LivePicker" />
 
   <project path="prebuilt" name="platform_prebuilt" />
