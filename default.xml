@@ -146,7 +146,6 @@
   <project path="hardware/ti/wpan" name="platform_hardware_ti_wpan" />
 
   <project path="libcore" name="platform_libcore" />
-  <project path="ndk" name="platform_ndk" />
 
   <project path="packages/apps/AccountsAndSyncSettings" name="platform_packages_apps_AccountsAndSyncSettings" />
   <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" />
