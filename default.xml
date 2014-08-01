@@ -203,4 +203,7 @@
   <project path="vendor/cyanogen" name="platform_vendor_Cyanogen" />
   <project path="vendor/motorola/sholes" name="platform_vendor_motorola_sholes" />
 
+  <project path="device/raidzero" name="platform_device_raidzero" revision="master" />
+  <project path="RZrecovery" name="platform_RZrecovery" />
+
 </manifest>
