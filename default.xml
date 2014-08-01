@@ -16,7 +16,7 @@
   <project path="bionic" name="platform_bionic" />
   <project path="bootable/bootloader/legacy" name="platform_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="platform_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="platform_bootable_recovery" />
+  <project path="bootable/recovery" name="platform_RZrecovery" />
   <project path="dalvik" name="platform_dalvik" />
   <project path="development" name="platform_development" />
 
@@ -204,6 +204,5 @@
   <project path="vendor/motorola/sholes" name="platform_vendor_motorola_sholes" />
 
   <project path="device/raidzero" name="platform_device_raidzero" revision="master" />
-  <project path="RZrecovery" name="platform_RZrecovery" />
 
 </manifest>
