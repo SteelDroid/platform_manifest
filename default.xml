@@ -7,7 +7,7 @@
   <default revision="gingerbread"
            remote="steeldroid"
            sync-c="true"
-           sync-j="2" />
+           sync-j="4" />
 
   <project path="android" name="platform_manifest" />
   <project path="build" name="platform_build">
@@ -16,7 +16,7 @@
   <project path="bionic" name="platform_bionic" />
   <project path="bootable/bootloader/legacy" name="platform_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="platform_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="platform_RZrecovery" />
+  <project path="bootable/recovery" name="platform_bootable_recovery" />
   <project path="dalvik" name="platform_dalvik" />
   <project path="development" name="platform_development" />
 
@@ -202,7 +202,5 @@
 
   <project path="vendor/cyanogen" name="platform_vendor_Cyanogen" />
   <project path="vendor/motorola/sholes" name="platform_vendor_motorola_sholes" />
-
-  <project path="device/raidzero" name="platform_device_raidzero" revision="master" />
 
 </manifest>
